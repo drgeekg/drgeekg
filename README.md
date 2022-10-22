@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @drgeekg (Ganesh)
+- 👀 I’m interested in Data Science and Web Development
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me -->  www.linkedin.com/in/rganesh13/
+-                         
